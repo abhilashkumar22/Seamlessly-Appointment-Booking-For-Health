@@ -1,18 +1,12 @@
-# Welcome to your Lovable project
+# Welcome to your project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/34f4edb5-9ada-48d6-b8ad-f2f24981b7d5
+**URL**: http://appointment-booking-for-health.netlify.app/
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/34f4edb5-9ada-48d6-b8ad-f2f24981b7d5) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,12 +56,12 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/34f4edb5-9ada-48d6-b8ad-f2f24981b7d5) and click on Share -> Publish.
+Simply open http://appointment-booking-for-health.netlify.app/  and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+## Can I connect a custom domain to my  project?
 
 Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Read more here: [Setting up a custom domain](http://appointment-booking-for-health.netlify.app/ )
